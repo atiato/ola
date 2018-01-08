@@ -1,0 +1,11 @@
+C:\Users\omar_atia\source\repos\TryApp\TryApp\bin\Debug\netcoreapp2.0\TryApp.deps.json
+C:\Users\omar_atia\source\repos\TryApp\TryApp\bin\Debug\netcoreapp2.0\TryApp.runtimeconfig.json
+C:\Users\omar_atia\source\repos\TryApp\TryApp\bin\Debug\netcoreapp2.0\TryApp.runtimeconfig.dev.json
+C:\Users\omar_atia\source\repos\TryApp\TryApp\bin\Debug\netcoreapp2.0\TryApp.dll
+C:\Users\omar_atia\source\repos\TryApp\TryApp\bin\Debug\netcoreapp2.0\TryApp.pdb
+C:\Users\omar_atia\source\repos\TryApp\TryApp\obj\Debug\netcoreapp2.0\TryApp.csprojResolveAssemblyReference.cache
+C:\Users\omar_atia\source\repos\TryApp\TryApp\obj\Debug\netcoreapp2.0\TryApp.csproj.CoreCompileInputs.cache
+C:\Users\omar_atia\source\repos\TryApp\TryApp\obj\Debug\netcoreapp2.0\TryApp.AssemblyInfoInputs.cache
+C:\Users\omar_atia\source\repos\TryApp\TryApp\obj\Debug\netcoreapp2.0\TryApp.AssemblyInfo.cs
+C:\Users\omar_atia\source\repos\TryApp\TryApp\obj\Debug\netcoreapp2.0\TryApp.dll
+C:\Users\omar_atia\source\repos\TryApp\TryApp\obj\Debug\netcoreapp2.0\TryApp.pdb
