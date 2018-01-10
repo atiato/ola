@@ -306,7 +306,7 @@ namespace People365.EmployeeService.Controllers
 
         public static string GetConnectionString()
         {
-            return "Data Source=172.20.10.9;Password=sasql;Persist Security Info=True;User ID=sa;Initial Catalog=MEA";
+            return "Data Source=.;Password=sasql1$$;Persist Security Info=True;User ID=sa;Initial Catalog=Adir";
             //  return "Password=sasql;Persist Security Info=True;User ID=sa;Initial Catalog=MEA;Data Source=.";
         }
     }
