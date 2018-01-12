@@ -1,0 +1,11 @@
+C:\People365 cw\People365-V2\People365\People365.WebAPIAuth\bin\Debug\netcoreapp2.0\People365.WebAPIAuth.deps.json
+C:\People365 cw\People365-V2\People365\People365.WebAPIAuth\bin\Debug\netcoreapp2.0\People365.WebAPIAuth.runtimeconfig.json
+C:\People365 cw\People365-V2\People365\People365.WebAPIAuth\bin\Debug\netcoreapp2.0\People365.WebAPIAuth.runtimeconfig.dev.json
+C:\People365 cw\People365-V2\People365\People365.WebAPIAuth\bin\Debug\netcoreapp2.0\People365.WebAPIAuth.dll
+C:\People365 cw\People365-V2\People365\People365.WebAPIAuth\bin\Debug\netcoreapp2.0\People365.WebAPIAuth.pdb
+C:\People365 cw\People365-V2\People365\People365.WebAPIAuth\obj\Debug\netcoreapp2.0\People365.WebAPIAuth.csprojResolveAssemblyReference.cache
+C:\People365 cw\People365-V2\People365\People365.WebAPIAuth\obj\Debug\netcoreapp2.0\People365.WebAPIAuth.csproj.CoreCompileInputs.cache
+C:\People365 cw\People365-V2\People365\People365.WebAPIAuth\obj\Debug\netcoreapp2.0\People365.WebAPIAuth.AssemblyInfoInputs.cache
+C:\People365 cw\People365-V2\People365\People365.WebAPIAuth\obj\Debug\netcoreapp2.0\People365.WebAPIAuth.AssemblyInfo.cs
+C:\People365 cw\People365-V2\People365\People365.WebAPIAuth\obj\Debug\netcoreapp2.0\People365.WebAPIAuth.dll
+C:\People365 cw\People365-V2\People365\People365.WebAPIAuth\obj\Debug\netcoreapp2.0\People365.WebAPIAuth.pdb
