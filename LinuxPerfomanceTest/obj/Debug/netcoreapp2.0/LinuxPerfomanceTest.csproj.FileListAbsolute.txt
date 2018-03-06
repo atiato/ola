@@ -1,0 +1,11 @@
+C:\TryApp\LinuxPerfomanceTest\obj\Debug\netcoreapp2.0\LinuxPerfomanceTest.csprojResolveAssemblyReference.cache
+C:\TryApp\LinuxPerfomanceTest\obj\Debug\netcoreapp2.0\LinuxPerfomanceTest.csproj.CoreCompileInputs.cache
+C:\TryApp\LinuxPerfomanceTest\obj\Debug\netcoreapp2.0\LinuxPerfomanceTest.AssemblyInfoInputs.cache
+C:\TryApp\LinuxPerfomanceTest\obj\Debug\netcoreapp2.0\LinuxPerfomanceTest.AssemblyInfo.cs
+C:\TryApp\LinuxPerfomanceTest\bin\Debug\netcoreapp2.0\LinuxPerfomanceTest.deps.json
+C:\TryApp\LinuxPerfomanceTest\bin\Debug\netcoreapp2.0\LinuxPerfomanceTest.runtimeconfig.json
+C:\TryApp\LinuxPerfomanceTest\bin\Debug\netcoreapp2.0\LinuxPerfomanceTest.runtimeconfig.dev.json
+C:\TryApp\LinuxPerfomanceTest\bin\Debug\netcoreapp2.0\LinuxPerfomanceTest.dll
+C:\TryApp\LinuxPerfomanceTest\bin\Debug\netcoreapp2.0\LinuxPerfomanceTest.pdb
+C:\TryApp\LinuxPerfomanceTest\obj\Debug\netcoreapp2.0\LinuxPerfomanceTest.dll
+C:\TryApp\LinuxPerfomanceTest\obj\Debug\netcoreapp2.0\LinuxPerfomanceTest.pdb
